@@ -1,6 +1,6 @@
 
 // // // /Below is the program as I have it had on onlinegdb.com (direct link: https://www.onlinegdb.com/edit/Sy1PX36Fv but this part is no more there)
-
+// TO MOVE FROM SINGLE SOURCE TO AN USUAL C PROJECT
 ////////////////////////////// processCsv.h /////////////////////////////////////
 // module intended to process Csv - files
 
